@@ -1,7 +1,9 @@
 from setuptools import setup
 
-setup(name='distributions',
+setup(name='distributions_imokut',
       version='0.1',
       description='Gaussian distributions',
-      packages=['distributions'],
-      zip_safe=False)
+      packages=['distributions_imokut'],
+      zip_safe=False,
+      author='Imokutmfon Udoh',
+      author_email='imokutofficial@gmail.com')
